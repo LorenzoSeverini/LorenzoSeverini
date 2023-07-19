@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **lorenzo.seve98@gmail.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/ab3c0213/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/ab3c0213/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 My Resume [https://app.enhancv.com/share/ab3c0213/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/ab3c0213/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
