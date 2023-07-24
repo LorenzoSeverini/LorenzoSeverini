@@ -4,7 +4,7 @@
   </h1>
     <h3>How to reach me:</h3>
     <a href="https://www.linkedin.com/in/lorenzo-severini-3ba522249/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:lorenzo,seve98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"/></a>
+    <a href="mailto:lorenzo.seve98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"/></a>
 </div>
 
 <hr>
@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/-REST API-3884FF?&style=for-the-badge"/>
     <br>
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Carbon-990000?&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Blade-BE3939?&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-NPM-CB3837?logo=NPM&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
@@ -36,7 +35,7 @@
     <br>
     <img src="https://img.shields.io/badge/-GitKraken-179287?logo=GitKraken&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=XAMPP&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Mamp-FB7A24?logo=MAMP&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=Visual-Studio-Code&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
 </div>
 
