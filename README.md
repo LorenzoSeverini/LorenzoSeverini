@@ -1,5 +1,5 @@
 <div align=center>
-    <h1 style="border-bottom: none; margin-bottom:0;">Hi 🤠, I'm Lorenzo
+    <h1 style="border-bottom: none; margin-bottom:0;">Hi, I'm Lorenzo
       <br>A passionate junior web developer from Florence, italy 💻
   </h1>
     <h3>How to reach me:</h3>
